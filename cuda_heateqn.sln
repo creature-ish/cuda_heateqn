@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cuda_heateqn", "cuda_heateqn\cuda_heateqn.vcxproj", "{24435285-32B1-462F-A2AC-10C427035AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24435285-32B1-462F-A2AC-10C427035AD6}.Debug|x64.ActiveCfg = Debug|x64
+		{24435285-32B1-462F-A2AC-10C427035AD6}.Debug|x64.Build.0 = Debug|x64
+		{24435285-32B1-462F-A2AC-10C427035AD6}.Release|x64.ActiveCfg = Release|x64
+		{24435285-32B1-462F-A2AC-10C427035AD6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10FA256D-025C-42FF-A9CA-DE043D8CC6A9}
+	EndGlobalSection
+EndGlobal
